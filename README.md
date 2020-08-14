@@ -9,4 +9,6 @@ Todo:
 Quiz: cuál es la unidad de cómputo básica de GCP.
 Dremel, query engine de BigQuery
 
-[Resource Hierarchy](img/cloud-folders-hierarchy.png)
+## Resource Hierarchy
+
+![Resource Hierarchy](img/cloud-folders-hierarchy.png)
