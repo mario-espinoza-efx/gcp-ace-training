@@ -1,11 +1,11 @@
 # Test exam attempt 1
 
 1. You are a project owner and need your co-worker to deploy a new version of your application to App Engine. You want to follow Google’s recommended practices. Which IAM roles should you grant your co-worker?
-   ![Answer 01](img/test-exam/q01.png)
-   [Feedback 01](https://cloud.google.com/iam/docs/understanding-roles)
+   - [Answer 01](img/test-exam/q01.png)
+   - [Feedback 01](https://cloud.google.com/iam/docs/understanding-roles)
 2. Your company has reserved a monthly budget for your project. You want to be informed automatically of your project spend so that you can take action when you approach the limit. What should you do?
-   [Feedback 02 a](https://cloud.google.com/appengine/pricing#spending_limit)  
-   [Feedback 02 b](https://cloud.google.com/billing/docs/how-to/budgets)
+   - [Feedback 02 a](https://cloud.google.com/appengine/pricing#spending_limit)
+   - [Feedback 02 b](https://cloud.google.com/billing/docs/how-to/budgets)
 3. You have a project using BigQuery. You want to list all BigQuery jobs for that project. You want to set this project as the default for the bq command-line tool. What should you do?
    [Feedback](https://cloud.google.com/bigquery/docs/reference/bq-cli-reference)
    [Feedback](https://cloud.google.com/sdk/gcloud/reference/config/set)
